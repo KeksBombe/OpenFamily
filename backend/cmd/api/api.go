@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/OpenFamily/openFamilyBackend/service/user"
+	"github.com/KeksBombe/FamFlow/backend/service/user"
 	"github.com/gorilla/mux"
 )
 

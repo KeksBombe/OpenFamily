@@ -1,11 +1,11 @@
-# OpenFamily
+# FamFlow
 
-OpenFamily is an open source family planner focused on everyday household coordination.
+FamFlow is an open source family planner focused on everyday household coordination.
 It combines shared task management, calendar visibility, and shopping planning in one place, while keeping room for private individual calendars.
 
 ## Vision
 
-Families need a practical planner that is simple enough for daily use and flexible enough for real routines. OpenFamily is being built to support:
+Families need a practical planner that is simple enough for daily use and flexible enough for real routines. FamFlow is being built to support:
 
 - Shared todo lists for the whole family.
 - One-time tasks and recurring tasks (for example, taking out the trash every week).

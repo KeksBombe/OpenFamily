@@ -3,9 +3,9 @@ package main
 import (
 	"log"
 
-	"github.com/OpenFamily/openFamilyBackend/cmd/api"
-	"github.com/OpenFamily/openFamilyBackend/config"
-	"github.com/OpenFamily/openFamilyBackend/db"
+	"github.com/KeksBombe/FamFlow/backend/cmd/api"
+	"github.com/KeksBombe/FamFlow/backend/config"
+	"github.com/KeksBombe/FamFlow/backend/db"
 	"github.com/go-sql-driver/mysql"
 )
 

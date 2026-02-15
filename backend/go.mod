@@ -1,4 +1,4 @@
-module github.com/OpenFamily/openFamilyBackend
+module github.com/KeksBombe/FamFlow/backend
 
 go 1.24.10
 

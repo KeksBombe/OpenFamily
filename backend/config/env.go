@@ -27,7 +27,7 @@ func initConfig() Config {
 		DBUser:     getEnv("DB_USER", "root"),
 		DBPassword: getEnv("DB_PASSWORD", "password"),
 		DBAddress:  getEnv("DB_ADDRESS", "localhost:3306"),
-		DBName:     getEnv("DB_NAME", "openfamily"),
+		DBName:     getEnv("DB_NAME", "famflow"),
 	}
 }
 
